@@ -7,4 +7,4 @@ Click below to download the model file:
 
 ## Download Video Demo  
 Click below to download the video demo:  
-[Download traffic volume estimation.mp4](https://github.com/KhoushikAarya/Traffic_Volume_Prediction/releases/download/v1.0/best_model.pkl)
+[Download traffic volume prediction.mp4](https://github.com/KhoushikAarya/Traffic_Volume_Prediction/releases/download/v1.0/Traffic.Volume.Prediction.mp4)
