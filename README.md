@@ -3,4 +3,4 @@ The Traffic Volume Estimation System predicts traffic conditions using machine l
 
 ## Download Model File  
 Click below to download the model file:  
-[Download best_model.pkl](https://github.com/your-username/your-repo/releases/download/v1.0/best_model.pkl)
+[Download best_model.pkl](https://github.com/KhoushikAarya/Traffic_Volume_Prediction/releases/download/v1.0/best_model.pkl)
